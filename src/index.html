@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🧑‍💻</title>
+
+    <style>
+        * {
+            font-size: 24px;
+        }
+
+        body {
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        menu {
+            flex: 1;
+            list-style-type: none;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        button,
+        input {
+            border: 2px solid darkgray;
+            border-radius: 0.5rem;
+            background: none;
+            padding: 2rem;
+            text-align: center;
+        }
+
+        button:active {
+            background-color: lightgrey;
+        }
+
+        pre {
+            flex: 1;
+            overflow-y: auto;
+        }
+    </style>
+</head>
+
+<body>
+    <menu>
+        <li><button id="connect">🔌</button></li>
+        <li><button id="disconnect">❌</button></li>
+        <li>
+            <input type="number" id="height" min="65" max="125" value="80" />
+        </li>
+    </menu>
+
+    <pre id="log"></pre>
+
+    <script type="module" src="script.js" async></script>
+</body>
+
+</html>

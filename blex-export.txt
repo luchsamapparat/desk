@@ -1,0 +1,50 @@
+Device Name: Schreibtisch 
+Device MAC: 48:70:1E:33:4E:29
+Device MAC manufacturer: Texas Instruments
+
+First seen: Thu Dec 28 18:10:54 2023
+Last seen: Thu Dec 28 18:13:51 2023
+
+Service(s) advertised:
+- {0000FF12-0000-1000-8000-00805F9B34FB}
+
+Service Name: "Generic Access"
+Service UUID: {00001800-0000-1000-8000-00805F9B34FB}
+Characteristic Name: GAP Device Name - UUID: {00002A00-0000-1000-8000-00805F9B34FB} - Properties: Read - Value: 0x53636872656962746973636820
+Characteristic Name: GAP Appearance - UUID: {00002A01-0000-1000-8000-00805F9B34FB} - Properties: Read - Value: 0x0000
+Characteristic Name: GAP Peripheral Privacy Flag - UUID: {00002A02-0000-1000-8000-00805F9B34FB} - Properties: Read / Write - Value: 0x00
+Characteristic Name: GAP Reconnection Address - UUID: {00002A03-0000-1000-8000-00805F9B34FB} - Properties: Write - Value: <none>
+Characteristic Name: GAP Peripheral Preferred Connection Parameters - UUID: {00002A04-0000-1000-8000-00805F9B34FB} - Properties: Read - Value: 0x5000A0000000E803
+
+Service Name: "Generic Attribute"
+Service UUID: {00001801-0000-1000-8000-00805F9B34FB}
+Characteristic Name: GATT Service Changed - UUID: {00002A05-0000-1000-8000-00805F9B34FB} - Properties: Indicate - Value: <none>
+
+Service Name: "Device Information"
+Service UUID: {0000180A-0000-1000-8000-00805F9B34FB}
+Characteristic Name: System ID - UUID: {00002A23-0000-1000-8000-00805F9B34FB} - Properties: Read - Value: 0x294E3300001E7048
+Characteristic Name: Model Number String - UUID: {00002A24-0000-1000-8000-00805F9B34FB} - Properties: Read - Value: 0x4C53443442542D5037344D30373031303100
+Characteristic Name: Serial Number String - UUID: {00002A25-0000-1000-8000-00805F9B34FB} - Properties: Read - Value: 0x53657269616C204E756D62657200
+Characteristic Name: Firmware Revision String - UUID: {00002A26-0000-1000-8000-00805F9B34FB} - Properties: Read - Value: 0x526576303200
+Characteristic Name: Hardware Revision String - UUID: {00002A27-0000-1000-8000-00805F9B34FB} - Properties: Read - Value: 0x4861726477617265205265766973696F6E00
+Characteristic Name: Software Revision String - UUID: {00002A28-0000-1000-8000-00805F9B34FB} - Properties: Read - Value: 0x76312E302E31373035303800
+Characteristic Name: Manufacturer Name String - UUID: {00002A29-0000-1000-8000-00805F9B34FB} - Properties: Read - Value: 0x4D616E756661637475726572204E616D6500
+Characteristic Name: IEEE 11073 20601 Regulatory Certification Data List - UUID: {00002A2A-0000-1000-8000-00805F9B34FB} - Properties: Read - Value: 0xFE006578706572696D656E74616C
+Characteristic Name: PnP ID - UUID: {00002A50-0000-1000-8000-00805F9B34FB} - Properties: Read - Value: 0x01FE0200001001
+
+Service Name: "Unknown Service"
+Service UUID: {0000FF12-0000-1000-8000-00805F9B34FB}
+Characteristic Name: 慄慴䤠 - UUID: {0000FF01-0000-1000-8000-00805F9B34FB} - Properties: WriteNoResp - Value: <none>
+Characteristic Name: 慄慴传瑵 - UUID: {0000FF02-0000-1000-8000-00805F9B34FB} - Properties: Notify - Value: <none>
+Characteristic Name: 慂湵牤瑡 - UUID: {0000FF03-0000-1000-8000-00805F9B34FB} - Properties: Read / Write - Value: 0x02
+Characteristic Name: 楌歮椠瑮牥慶 - UUID: {0000FF04-0000-1000-8000-00805F9B34FB} - Properties: Read / Write - Value: 0x3000
+Characteristic Name: 慐物䌠摯 - UUID: {0000FF05-0000-1000-8000-00805F9B34FB} - Properties: Read / Write - Value: 0x303030303031
+Characteristic Name: 呂渠浡 - UUID: {0000FF06-0000-1000-8000-00805F9B34FB} - Properties: Read / Write - Value: 0x53636872656962746973636820
+Characteristic Name: 慐物䌠摯⁥湅 - UUID: {0000FF07-0000-1000-8000-00805F9B34FB} - Properties: Read / Write - Value: 0x01
+Characteristic Name: 䑁⁖湉整癲污 - UUID: {0000FF08-0000-1000-8000-00805F9B34FB} - Properties: Read / Write - Value: 0xA000
+Characteristic Name: 硔倠睯牥 - UUID: {0000FF09-0000-1000-8000-00805F9B34FB} - Properties: Read / Write - Value: 0x02
+Characteristic Name: 䍍⁕敄慬 - UUID: {0000FF0A-0000-1000-8000-00805F9B34FB} - Properties: Read / Write - Value: 0x00
+Characteristic Name: 慆瑣牯獹瑥 - UUID: {0000FFF0-0000-1000-8000-00805F9B34FB} - Properties: Write - Value: <none>
+Characteristic Name: 敒敳 - UUID: {0000FFF1-0000-1000-8000-00805F9B34FB} - Properties: Write - Value: <none>
+Characteristic Name: 坆嘠牥楳湯 - UUID: {0000FFF2-0000-1000-8000-00805F9B34FB} - Properties: Read - Value: 0x0201
+
